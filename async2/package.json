@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "async": "^3.2.4"
+  },
+  "name": "async2",
+  "version": "1.0.0",
+  "main": "asyncexample.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
